@@ -1,0 +1,16 @@
+#main {
+  background-color: #eeeeee;
+}
+
+#title {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+#image {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
